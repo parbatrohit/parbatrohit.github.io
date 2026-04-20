@@ -53,4 +53,4 @@ Udemy
 
 Full CV
 ======  
-{Download My Full CV}(../files/rohit_parbat_cv.pdf)
+{Download My Full CV}(files/CV_ROHIT_KUMAR_PARBAT.pdf)
