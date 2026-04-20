@@ -19,11 +19,11 @@ Work experience
   * Indian Institute of Technology Dharwad
   * Supervisor: Dr D Narasimha 
 
-* August 2024 to April 2024: Undergraduate Researcher
+* August 2024 to April 2025: Undergraduate Researcher
   * Solar Astrophysics Lab, NIT Calicut 
   * Supervisor: Dr Ram Ajor Maurya 
 
-* May 2024 to September: Research Assistant
+* May 202 to September 2025: Research Assistant
   * Solar Astrophysics Lab, NIT Calicut 
   * Supervisor: Dr Ram Ajor Maurya 
 
@@ -38,14 +38,19 @@ Skills
 - Python, C, LaTeX
 - NumPy, Pandas, Matplotlib, Scikit-learn
 
-Workshops and Certifications
+Workshops  
 ======
-- AstroSat & XPoSat Data Analysis Workshop (IUCCA)
-- Space Science Data School (Manipal)
-- Data Science in Astronomy (Spartificial)
-
+- Astronomy andAstrophysics for Amateur Astronomers (NIT Calicut)
+- AstroSat and XPosat Data Analysis Workshop (IUCCA)
+- National Level School on Analysis and Statistical Modelling of Space Science Data (Manipal Centre for Natural Sciences (MCNS))
+  
+Certfications
+======
+- DataScience in Astronomy (Spartificial)
+- 100 Days Python Bootcamp (Udemy)
+Udemy 
 ---
 
 Full CV
 ======  
-{Download My Full CV}()
+{Download My Full CV}(../files/rohit_parbat_cv.pdf)
