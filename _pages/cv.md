@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BTech in Engineering Physics, National Institute of Technology Calicut 2025 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2024 to July 2024: Research Intern
+  * Indian Institute of Technology Dharwad
+  * Supervisor: Dr D Narasimha 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2024 to April 2024: Undergraduate Researcher
+  * Solar Astrophysics Lab, NIT Calicut 
+  * Supervisor: Dr Ram Ajor Maurya 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* May 2024 to September: Research Assistant
+  * Solar Astrophysics Lab, NIT Calicut 
+  * Supervisor: Dr Ram Ajor Maurya 
+
+Achievements
+======
+- IIT JAM AIR 25 (Physics)
+- GATE AIR 604 (Physics)
+- IAS Summer Research Fellowship (2024)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Python, C, LaTeX
+- NumPy, Pandas, Matplotlib, Scikit-learn
 
-Publications
+Workshops and Certifications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- AstroSat & XPoSat Data Analysis Workshop (IUCCA)
+- Space Science Data School (Manipal)
+- Data Science in Astronomy (Spartificial)
+
+---
+
+Full CV
+======  
+{Download My Full CV}()
