@@ -50,4 +50,4 @@ Certfications
 
 Full CV
 ======  
-[Download My Full CV](files/CV_ROHIT_KUMAR_PARBAT.pdf)
+[Download My Full CV](/files/CV_ROHIT_KUMAR_PARBAT.pdf)
