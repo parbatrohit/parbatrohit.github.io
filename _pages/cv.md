@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * BTech in Engineering Physics, National Institute of Technology Calicut 2025 
@@ -48,9 +46,8 @@ Certfications
 ======
 - DataScience in Astronomy (Spartificial)
 - 100 Days Python Bootcamp (Udemy)
-Udemy 
 ---
 
 Full CV
 ======  
-{Download My Full CV}(files/CV_ROHIT_KUMAR_PARBAT.pdf)
+[Download My Full CV](files/CV_ROHIT_KUMAR_PARBAT.pdf)
