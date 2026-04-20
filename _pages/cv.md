@@ -46,7 +46,6 @@ Certfications
 ======
 - DataScience in Astronomy (Spartificial)
 - 100 Days Python Bootcamp (Udemy)
----
 
 Full CV
 ======  
