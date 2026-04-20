@@ -11,11 +11,8 @@ main:
 
   - title: "CV"
     url: /cv/
-    
-  - title: "Publications"
-    url: /publications/
-       
-    
+
+         
 
   # - title: "CV"
   #   url: /cv-json/
