@@ -27,9 +27,9 @@ Work experience
 
 Achievements
 ======
-- JEST AIR 06 (Physics)
-- GATE AIR 604 (Physics)
-- IIT JAM AIR 25 (Physics)
+- JEST AIR 06 (Physics) (2026)
+- GATE AIR 604 (Physics) (2026)
+- IIT JAM AIR 25 (Physics) (2026)
 - IAS Summer Research Fellowship (2024)
 
 Skills
