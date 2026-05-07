@@ -9,7 +9,8 @@ redirect_from:
 
 Education
 ======
-* BTech in Engineering Physics, National Institute of Technology Calicut 2025 
+* BTech in Engineering Physics, National Institute of Technology Calicut 2025
+* CGPA:- 8.4
 
 Work experience
 ======
