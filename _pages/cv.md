@@ -21,7 +21,7 @@ Work experience
   * Solar Astrophysics Lab, NIT Calicut 
   * Supervisor: Dr Ram Ajor Maurya 
 
-* May 202 to September 2025: Research Assistant
+* May 2025 to September 2025: Research Assistant
   * Solar Astrophysics Lab, NIT Calicut 
   * Supervisor: Dr Ram Ajor Maurya 
 
